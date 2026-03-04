@@ -45,4 +45,4 @@ If using these data, please cite the associated manuscript and the Zenodo DOI of
 
 ## Contact
 
-For questions regarding the calculations, please contact the corresponding author.
+For questions regarding the calculations, please contact the corresponding author: Ubeiden C. Samboni (ubeiden-samboni@gmail.com), Alberto Sánchez López (alberto.sanchez@unc.edu.ar)
