@@ -37,7 +37,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 
 ## Citation
 
-Samboni, UC; et al. (2026). Supplementary material from _Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub>3</sub>py_ The Royal Society. Collection. https://doi.org/ 
+Samboni, UC; et al. (2026). Supplementary material from "_Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub>3</sub>py_" The Royal Society. Collection. https://doi.org/ 
 
 ---
 
