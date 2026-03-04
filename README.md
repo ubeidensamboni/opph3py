@@ -28,7 +28,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 - Anisotropy of polarizability (**α<sub>aniso<sub>** ×10⁻²⁴ esu)
 - First-order hyperpolarizability (**β<sup>λ<sup>**)
   - Static (**β(0; 0, 0)**, ×10⁻³⁰ esu)
-  - Dynamic (**β<sup>λ<sup> (−2ω; ω, 0)**, ×10⁻³⁰ esu)
+  - Dynamic (**β<sup>λ</sup> (−2ω; ω, 0)**, ×10⁻³⁰ esu)
   - Second harmonic generation (**β<sup>λ<sup> <sub>SHG<sub>(−2ω; ω, ω)**, ×10⁻³⁰ esu)
 - Second dipole hyperpolarizability (**γ<sup>λ<sup>**)
   - Static (**γ(0; 0, 0, 0)**, ×10⁻³⁶ esu)
