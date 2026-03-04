@@ -43,4 +43,4 @@ Samboni, UC; et al. (2026). Supplementary material from "_Theoretical insights i
 
 ## Contact
 
-For questions regarding the calculations, please contact the corresponding author: Ubeiden C. Samboni (ubeiden-samboni@gmail.com), Alberto Sánchez López (alberto.sanchez@unc.edu.ar)
+For questions regarding the calculations, please contact the corresponding author: Ubeiden C. Samboni (ubeiden-samboni@unc.edu.ar), Alberto Sánchez López (alberto.sanchez@unc.edu.ar)
