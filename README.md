@@ -2,7 +2,7 @@
 
 ## Description
 
-Supporting data for "Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub>3</sub>py" by Ubeiden Cifuentes Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and
+Supporting data for "_Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub>3</sub>py_" by Ubeiden Cifuentes Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and
  Alberto Sánchez López (2026) in Royal Society Open Science. 
  
 ## Files Included
