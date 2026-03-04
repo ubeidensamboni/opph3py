@@ -1,4 +1,4 @@
-# Supplememtary Information for OPPh<sub>3</sub>py
+# Supplememtary Information for OPPh<sub>3</sub>py  [![DOI](https://zenodo.org/badge/1172709056.svg)](https://doi.org/10.5281/zenodo.18865772)
 
 ## Description
 
@@ -37,7 +37,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 
 ## Citation
 
-Samboni, UC; et al. (2026). Supplementary material from "_Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub>3</sub>py_" The Royal Society. Collection. [![DOI](https://zenodo.org/badge/1172709056.svg)](https://doi.org/10.5281/zenodo.18865772)
+C. Samboni, U., Berrio Velasco, L. F., Cuenú Cabezas, F., García Ríos, A., Lorenz, C., & Sánchez López, A. (2026). Supporting Information: Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub><sub>py (Version v1). Zenodo. https://doi.org/10.5281/zenodo.18866407.
 
 
 ---
