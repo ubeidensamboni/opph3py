@@ -24,9 +24,9 @@ This file contains the complete raw output generated during the NBO analysis at 
 Output file containing raw data for nonlinear optical (NLO) parameters, including:
 
 - Dipole moment (**µD**, D)
-- Average linear isotropic polarizability (**α<sub>iso<sub>**, ×10⁻²⁴ esu)
-- Anisotropy of polarizability (**α<sub>aniso<sub>**, ×10⁻²⁴ esu)
-- First-order hyperpolarizability (**βλ**)
+- Average linear isotropic polarizability (**α<sub>iso<sub>** ×10⁻²⁴ esu)
+- Anisotropy of polarizability (**α<sub>aniso<sub>** ×10⁻²⁴ esu)
+- First-order hyperpolarizability (**β<sup>λ<sup>**)
   - Static (**β(0; 0, 0)**, ×10⁻³⁰ esu)
   - Dynamic (**β<sup>λ<sup> (−2ω; ω, 0)**, ×10⁻³⁰ esu)
   - Second harmonic generation (**β<sup>λ<sup> <sub>SHG<sub>(−2ω; ω, ω)**, ×10⁻³⁰ esu)
