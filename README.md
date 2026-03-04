@@ -37,7 +37,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 
 ## Citation
 
-C. Samboni, U., Berrio Velasco, L. F., Cuenú Cabezas, F., García Ríos, A., Lorenz, C., & Sánchez López, A. (2026). Supporting Information: Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub><sub>py (Version v1). Zenodo. https://doi.org/10.5281/zenodo.18866407.
+C. Samboni, U., Berrio Velasco, L. F., Cuenú Cabezas, F., García Ríos, A., Lorenz, C., & Sánchez López, A. (2026). Supporting Information: Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh<sub></sub>py (Version v1). Zenodo. https://doi.org/10.5281/zenodo.18866407.
 
 
 ---
