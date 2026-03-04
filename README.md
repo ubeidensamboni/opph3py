@@ -2,16 +2,10 @@
 
 ## Description
 
-This repository contains the output files from quantum chemical calculations performed on the OPPh_3py molecule at the ωB97XD level of theory.
-
-The calculations include:
-
-1. **Single-point energy calculation with NBO analysis**
-2. **Nonlinear optical (NLO) property calculation**
-
-All computations were carried out using Density Functional Theory (DFT) with the long-range corrected hybrid functional ωB97XD.
-
----
+Supporting data for "Theoretical insights into the electronic structure and NBO features driving nonlinear optical enhancement in the donor–π–acceptor system of OPPh3py" by Ubeiden Cifuentes Samboni, Luis Felipe Berrio Velasco, Fernando Cuenú Cabezas, Alejandro García Ríos, Christian D. Lorenz and
+ Alberto Sánchez López (2026) in Royal Society Open Science. 
+ 
+ This repository contains the output files from quantum chemical calculations performed on the OPPh_3py molecule.
 
 ## Files Included
 
@@ -29,26 +23,19 @@ This file contains the complete raw output generated during the NBO analysis.
 ---
 
 ### 2. nlo wB97XD.log
-Output file containing raw data for nonlinear optical (NLO) properties, including:
+Output file containing raw data for nonlinear optical (NLO) parameters, including:
 
-- Dipole moment components
-- Polarizability tensor elements
-- First hyperpolarizability tensor components
-- Derived scalar quantities (if present in output)
-
-These values can be used to compute:
-
-- Total dipole moment (μ)
-- Mean polarizability (⟨α⟩)
-- Total first hyperpolarizability (β_tot)
-
----
-
-- The files provided are raw Gaussian output files.
-- All numerical values reported in the manuscript were extracted directly from these outputs.
-- NLO properties were obtained from the frequency-dependent output section.
-
----
+- Dipole moment (**µD**, D)
+- Average linear isotropic polarizability (**αiso**, ×10⁻²⁴ esu)
+- Anisotropy of polarizability (**αaniso**, ×10⁻²⁴ esu)
+- First-order hyperpolarizability (**βλ**)
+  - Static (**β(0; 0, 0)**, ×10⁻³⁰ esu)
+  - Dynamic (**βλ(−2ω; ω, 0)**, ×10⁻³⁰ esu)
+  - Second harmonic generation (**βλSHG(−2ω; ω, ω)**, ×10⁻³⁰ esu)
+- Second dipole hyperpolarizability (**γλ**)
+  - Static (**γ(0; 0, 0, 0)**, ×10⁻³⁶ esu)
+  - Dynamic (**γλ(−ω; ω, 0, 0)**, ×10⁻³⁶ esu)
+  - Third harmonic generation (**γλTHG(−2ω; ω, ω, 0)**, ×10⁻³⁶ esu)
 
 ## Citation
 
