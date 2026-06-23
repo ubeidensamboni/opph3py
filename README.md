@@ -32,8 +32,8 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
   - Second harmonic generation (**β<sup>λ</sup><sub>SHG</sub>  (−2ω; ω, ω)**, ×10⁻³⁰ esu)
 - Second dipole hyperpolarizability (**γ<sup>λ<sup>**)
   - Static (**γ(0; 0, 0, 0)**, ×10⁻³⁶ esu)
-  - Dynamic (**γβ<sup>λ</sup> (−ω; ω, 0, 0)**, ×10⁻³⁶ esu)
-  - Third harmonic generation (**γ<sup>λ<sup><sub>THG<sub>** (−2ω; ω, ω, 0), ×10⁻³⁶ esu)
+  - Dynamic (**γ<sup>λ</sup> (−ω; ω, 0, 0)**, ×10⁻³⁶ esu)
+  - Third harmonic generation (**γ<sup>λ<sup>** **<sub>THG<sub>** (−2ω; ω, ω, 0), ×10⁻³⁶ esu)
 
 ## Citation
 
@@ -44,4 +44,4 @@ C. Samboni, U., Berrio Velasco, L. F., Cuenú Cabezas, F., García Ríos, A., Lo
 
 ## Contact
 
-For questions regarding the calculations, please contact the corresponding author: Ubeiden C. Samboni (ubeiden-samboni@unc.edu.ar), Alberto Sánchez López (alberto.sanchez@unc.edu.ar)
+For questions regarding the calculations, please contact the corresponding author: Ubeiden C. Samboni (ubeiden-samboni@unc.edu.ar), Alberto Sánchez López (asanchezl@uniquindio.edu.co)
