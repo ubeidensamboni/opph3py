@@ -34,6 +34,8 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
   - Static (**γ(0; 0, 0, 0)**, ×10⁻³⁶ esu)
   - Dynamic (**γ<sup>λ</sup> (−ω; ω, 0, 0)**, ×10⁻³⁶ esu)
   - Third harmonic generation (**γ<sup>λ<sup>** **<sub>THG<sub>** (−2ω; ω, ω, 0), ×10⁻³⁶ esu)
+
+---
  
   ### 3. RAW Data NLO Properties at different level of theory
 Output file containing raw data for nonlinear optical (NLO) parameters, including:
