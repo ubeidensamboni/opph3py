@@ -23,7 +23,7 @@ This file contains the complete raw output generated during the NBO analysis at 
 ### 2. nlo wB97XD.log
 Output file containing raw data for nonlinear optical (NLO) parameters, including:
 
-- Dipole moment (**µD**, D)
+- Dipole moment (**µ<sub>D<sub>**, D)
 - Average linear isotropic polarizability (**α<sub>iso<sub>** ×10⁻²⁴ esu)
 - Anisotropy of polarizability (**α<sub>aniso<sub>** ×10⁻²⁴ esu)
 - First-order hyperpolarizability (**β<sup>λ<sup>**)
