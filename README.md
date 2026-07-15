@@ -33,7 +33,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 - Second dipole hyperpolarizability (**γ<sup>λ<sup>**)
   - Static (**γ(0; 0, 0, 0)**, ×10⁻³⁶ esu)
   - Dynamic (**γ<sup>λ</sup> (−ω; ω, 0, 0)**, ×10⁻³⁶ esu)
-  - Third harmonic generation (**γ<sup>λ<sup>** **<sub>THG<sub>** (−2ω; ω, ω, 0), ×10⁻³⁶ esu)
+  - Electric field induced second-harmonic generation (**γ<sup>λ<sup>** **<sub>ESHG<sub>** (−2ω; ω, ω, 0), ×10⁻³⁶ esu)
 
 ---
  
@@ -43,7 +43,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 - beta_RAW.csv: First-order hyperpolarizability (**β<sup>λ<sup>**)
 - betaSHG_RAW.csv: Second harmonic generation (**β<sup>λ</sup> <sub>SHG</sub>**) 
 - gamma_RAW.csv: Second dipole hyperpolarizability (**γ<sup>λ<sup>**)
-- gammaESHG_RAW.csv: Third harmonic generation (**γ<sup>λ<sup>** **<sub>ESHG<sub>**)
+- gammaESHG_RAW.csv: Electric field induced second-harmonic generation (**γ<sup>λ<sup>** **<sub>ESHG<sub>**)
 
 ## Citation
 
