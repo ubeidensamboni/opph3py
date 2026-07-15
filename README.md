@@ -43,7 +43,7 @@ Output file containing raw data for nonlinear optical (NLO) parameters, includin
 - beta_RAW.csv: First-order hyperpolarizability (**β<sup>λ<sup>**)
 - betaSHG_RAW.csv: Second harmonic generation (**β<sup>λ</sup> <sub>SHG</sub>**) 
 - gamma_RAW.csv: Second dipole hyperpolarizability (**γ<sup>λ<sup>**)
-- gammaESHG_RAW.csv: Third harmonic generation (**γ<sup>λ<sup>** **<sub>ESHG<sub>**
+- gammaESHG_RAW.csv: Third harmonic generation (**γ<sup>λ<sup>** **<sub>ESHG<sub>**)
 
 ## Citation
 
