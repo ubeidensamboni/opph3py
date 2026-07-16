@@ -1,4 +1,4 @@
-# Supplememtary Information for OPPh<sub>3</sub>py  [![DOI](https://zenodo.org/badge/1172709056.svg)](https://doi.org/10.5281/zenodo.18865772)
+# Supplememtary Information for OPPh<sub>3</sub>py [![DOI](https://img.shields.io/badge/-10.5281%2Fzenodo.18866407-blue?style=for-the-badge&logo=doi)](https://doi.org/10.5281/zenodo.18866407)
 
 ## Description
 
